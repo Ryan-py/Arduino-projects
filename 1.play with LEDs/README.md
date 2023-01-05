@@ -44,3 +44,6 @@ void loop()
   delay(100);
 }
 ```
+## Thanks
+I hope you enjoy playing around with this project as i did too,\
+you can try playing around with the **delay** to create different patterns.
