@@ -1,6 +1,6 @@
 int led1=13;//red
-int led2=9;//green
-int led3=5;//yellow
+int led2=9;//yellow
+int led3=5;//green
 void setup() {
   // put your setup code here, to run once:
   pinMode(led1,OUTPUT);
