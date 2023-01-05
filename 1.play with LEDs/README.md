@@ -1,7 +1,7 @@
 # About
 This Arduino code blinks three LEDs in a repeating pattern. The LEDs are connected to digital pins 13, 9, and 5 on the Arduino board and are referred to as "led1", "led2", and "led3" in the code.
 
-This is a fun and easy code when getting started with arduino.
+This is a fun and easy code  when getting started with arduino.
 
 ## What you will need
 An arduino Uno\
