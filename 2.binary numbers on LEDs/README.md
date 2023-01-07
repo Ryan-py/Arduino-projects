@@ -14,7 +14,7 @@ Jumper cables \
 Bread board
 
 ## Circuit setup
-<img src="/home/ryantech/Desktop/arduino p/project2binomial/Powerful Bojo-Snicket.png" alt="circuit" title="Optional title">
+<img src="circuit.png" alt="circuit" title="Optional title">
 
 
 ## Code breakdown
