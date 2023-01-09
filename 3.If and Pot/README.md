@@ -36,7 +36,7 @@ The potentiometer unlike other resistors has three terminals as shown below.
 Serial communication in this code refers to the process of sending and receiving data between the Arduino and a computer via a serial connection. Serial communication allows the Arduino to send data to the computer, such as the value of the voltage being read from the potentiometer, and the computer to send data to the Arduino, such as commands to control the LEDs.
 
 ## Circuit Setup
-<img src="/home/ryantech/Desktop/arduino p/project3if/circuit.png" alt="circuit" >
+<img src="circuit.png" alt="circuit" >
 
 ## Code breakdown
 
